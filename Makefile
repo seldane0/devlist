@@ -1,5 +1,5 @@
-SRC=main.c
-OBJ=main.o
+SRC=devlist.c
+OBJ=devlist.o
 OUT=devlist
 CFLAGS=-Wall
 
